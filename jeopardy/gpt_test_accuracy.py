@@ -6,7 +6,7 @@
 import json
 import openai
 
-openai.api_key = 
+openai.api_key =
 
 with open('jeopardy_data.json') as user_file:
     file1 = user_file.read()
