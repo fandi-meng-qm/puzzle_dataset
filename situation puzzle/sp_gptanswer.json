@@ -1,0 +1,23 @@
+[
+  {"1":
+    {
+      "Q1": "Did the murder occur on a Sunday?",
+      "A1": "yes"
+      "Q2": "Is the activity mentioned by the maid, getting the mail, usually not possible on a Sunday?",
+      "A2": "yes"
+      "GPT_Answer": "The murderer is the maid, as mail isn't usually delivered on Sundays."
+    },
+  {
+  "1": {
+    "Q1": "Was the act of flipping the coin essential in determining whether the case was a murder or suicide?",
+    "A1": "no",
+    "Q2": "Did the detective determine it was a murder based on something he observed about the windows on his way up?",
+    "A2": "yes",
+    "Q3": "Did the detective notice that all the windows were closed as he made his way up to each floor, indicating that the person could not have jumped?",
+    "A3": "yes",
+    "GPT_Answer": "The detective determined it was a murder because all the windows were closed as he went up each floor, making it impossible for the person to have jumped from any of them."
+  }
+   },
+
+  }
+]
