@@ -2,7 +2,7 @@ import os
 import openai
 import json
 
-openai.api_key = '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'
+openai.api_key =
 
 with open('riddle.json') as user_file:
     file_contents = user_file.read()

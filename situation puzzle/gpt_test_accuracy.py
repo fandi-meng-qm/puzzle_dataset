@@ -6,7 +6,7 @@
 import json
 import openai
 
-openai.api_key = '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'
+openai.api_key =
 
 with open('sp_data.json') as user_file:
     file1 = user_file.read()
